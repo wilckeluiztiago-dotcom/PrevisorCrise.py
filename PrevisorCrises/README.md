@@ -6,7 +6,7 @@
 
 ## Descrição
 
-Sistema extremamente complexo e avançado para previsão de crises econômicas em bolhas especulativas, baseado na inovadora **Série Temporal de Wilcke para Detecção de Bolhas (STWDB)**.
+Sistema para previsão de crises econômicas em bolhas especulativas, baseado na inovadora **Série Temporal de Wilcke para Detecção de Bolhas (STWDB)**.
 
 O sistema combina teorias avançadas de:
 - **Equações Diferenciais Estocásticas Fracionárias (EDEF)**

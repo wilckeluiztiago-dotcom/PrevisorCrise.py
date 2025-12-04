@@ -1,0 +1,42 @@
+====================================================================================================
+RELATÓRIO NUMÉRICO DETALHADO - SISTEMA DE PREVISÃO DE CRISES
+Série Temporal de Wilcke para Detecção de Bolhas (STWDB)
+Autor: Luiz Tiago Wilcke
+====================================================================================================
+
+1. ESTATÍSTICAS DOS DADOS
+----------------------------------------------------------------------------------------------------
+Número de observações: 1000
+Preço inicial: $100.000000
+Preço final: $210.263437
+Retorno total: 110.263437%
+Volatilidade anualizada: 35.823839%
+
+2. INDICADORES TÉCNICOS E ECONÔMICOS
+----------------------------------------------------------------------------------------------------
+RSI atual: 46.420156
+Sentimento de mercado: MEDO
+Índice de sentimento: 63.509821
+Volatilidade atual: 29.606906%
+Expoente de Hurst: 1.014658
+R² (Hurst): 0.999891
+
+3. PREVISÕES E RISCO SISTÊMICO
+----------------------------------------------------------------------------------------------------
+IBW (Indicador de Bolha de Wilcke): 52.560109 / 100
+Nível de alerta IBW: ALTO
+Probabilidade de crise: 0.400533
+VaR 95%: -3.566293%
+CVaR 95%: -4.724187%
+Máximo Drawdown: -42.848507%
+Drawdown atual: -14.875657%
+SRISK: $0.000000
+
+4. ALERTAS DETECTADOS
+----------------------------------------------------------------------------------------------------
+1. [CRÍTICO] DRAWDOWN: Máximo drawdown: -42.8%
+2. [ALTO] INDICADOR_BOLHA: IBW em nível ALTO: 52.6/100
+
+====================================================================================================
+FIM DO RELATÓRIO
+====================================================================================================
